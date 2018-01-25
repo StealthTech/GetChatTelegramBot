@@ -1,0 +1,14 @@
+# Python Virtual Environment
+env/
+
+# Python Cache Files
+__pycache__/
+
+# Project configuration files
+conf/
+
+# .idea meta files
+.idea/
+
+# Swap files
+*.swp
